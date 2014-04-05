@@ -1,4 +1,4 @@
-sublime-text-3-settings
+# Sublime Text 3 Packages and User Settings
 =======================
 
-These are my Sublime Text 3 - Packages and USer Settings
+These are my [Sublime Text](http://www.sublimetext.com/) settings. On Windows.
